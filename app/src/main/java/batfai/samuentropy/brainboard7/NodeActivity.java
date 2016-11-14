@@ -121,8 +121,8 @@ public class NodeActivity extends android.app.Activity {
 
                 ParseObject nodes = new ParseObject("Nodes");
                 nodes.put("createdBy", ParseUser.getCurrentUser());
-                nodes.put("x",10);
-                nodes.put("y",10);
+                nodes.put("x",400);
+                nodes.put("y",400);
                 nodes.put("type",position);
                 nodes.saveInBackground();
 

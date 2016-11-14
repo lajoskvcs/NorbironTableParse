@@ -384,7 +384,7 @@ public class NorbironSurfaceView extends android.view.SurfaceView implements Run
 
         } else if (event.getAction() == android.view.MotionEvent.ACTION_MOVE) {
 
-            if (selNb != null) {
+            if (selNb != null && selNb.getType() != 0 ) {
                 selNb.setXY(selNb.getX() - (fromsx - x), selNb.getY() - (fromsy - y));
 
                 fromsx = x;
@@ -393,6 +393,8 @@ public class NorbironSurfaceView extends android.view.SurfaceView implements Run
             } else if (Math.abs(fromsx - x) + Math.abs(fromsy - y) > 25) {
                 startsx += (fromsx - x);
                 startsy += (fromsy - y);
+
+                nodeBoxes.get(0).setXY(startsx , startsy);
 
                 fromsx = x;
                 fromsy = y;
