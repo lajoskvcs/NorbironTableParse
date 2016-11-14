@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "batfai.samuentropy.brainboard7"
+        minSdkVersion 19
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.parse:parse-android:1.13.1'
+    compile 'com.parse.bolts:bolts-android:1.+'
+    compile 'com.parse:parseui-login-android:0.0.1'
+    compile 'com.parse:parseui-widget-android:0.0.1'
+    compile 'com.facebook.android:facebook-android-sdk:4.6.0'
+    compile 'com.parse:parsefacebookutils-v4-android:1.10.3@aar'
+}

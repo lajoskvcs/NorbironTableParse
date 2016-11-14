@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/messenger_bubble_large_blue.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/com_parse_ui_twitter_login_logo.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-login-android/0.0.1/res/drawable-xxhdpi/com_parse_ui_twitter_login_logo.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/com_parse_ui_app_logo.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-login-android/0.0.1/res/drawable-xxhdpi/com_parse_ui_app_logo.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/messenger_bubble_small_blue.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/messenger_bubble_small_white.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/com_parse_ui_facebook_login_logo.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-login-android/0.0.1/res/drawable-xxhdpi/com_parse_ui_facebook_login_logo.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/messenger_bubble_large_white.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/com_facebook_button_send_icon.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/messenger_button_send_round_shadow.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/com_facebook_button_icon.png",
+        "source": "/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/com_facebook_button_icon.png"
+    }
+]

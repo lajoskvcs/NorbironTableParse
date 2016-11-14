@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:41:1-98:12
+	package
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:42:11-51
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:44:11-36
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:43:11-34
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:41:11-69
+uses-sdk
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:45:5-47:41
+MERGED from [com.parse:parseui-login-android:0.0.1] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-login-android/0.0.1/AndroidManifest.xml:28:5-30:41
+MERGED from [com.android.support:support-v4:23.0.1] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.parse:parseui-widget-android:0.0.1] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-widget-android/0.0.1/AndroidManifest.xml:27:5-29:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.parse:parsefacebookutils-v4-android:1.10.3] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parsefacebookutils-v4-android/1.10.3/AndroidManifest.xml:16:5-18:41
+	android:targetSdkVersion
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:47:9-38
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:46:9-35
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:49:5-66
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:49:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:50:5-78
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:50:22-76
+application
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:53:5-97:19
+MERGED from [com.parse:parseui-login-android:0.0.1] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-login-android/0.0.1/AndroidManifest.xml:32:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parseui-widget-android:0.0.1] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-widget-android/0.0.1/AndroidManifest.xml:31:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/AndroidManifest.xml:28:5-20
+MERGED from [com.parse:parsefacebookutils-v4-android:1.10.3] /Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parsefacebookutils-v4-android/1.10.3/AndroidManifest.xml:20:5-20
+	android:label
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:53:18-50
+	android:icon
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:53:51-87
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:54:9-79
+activity#batfai.samuentropy.brainboard7.NeuronGameActivity
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:55:9-61:20
+	android:label
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:56:19-51
+	android:theme
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:56:52-95
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:55:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:57:13-60:29
+action#android.intent.action.MAIN
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:58:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:59:27-73
+activity#batfai.samuentropy.brainboard7.SplashActivity
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:62:8-67:20
+	android:theme
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:62:48-91
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:62:18-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:63:13-66:29
+category#android.intent.category.LAUNCHER
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:65:17-86
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:65:27-74
+activity#batfai.samuentropy.brainboard7.NodeActivity
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:68:16-73:20
+	android:theme
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:68:54-97
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:68:26-53
+activity#com.parse.ui.ParseLoginActivity
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:75:9-89:20
+	android:label
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:77:13-45
+	android:launchMode
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:78:13-43
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:76:13-59
+meta-data#com.parse.ui.ParseLoginActivity.PARSE_LOGIN_ENABLED
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:80:13-82:39
+	android:value
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:82:17-37
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:81:17-83
+meta-data#com.parse.ui.ParseLoginActivity.PARSE_LOGIN_EMAIL_AS_USERNAME
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:83:13-85:39
+	android:value
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:85:17-37
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:84:17-93
+meta-data#com.parse.ui.ParseLoginActivity.FACEBOOK_LOGIN_ENABLED
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:86:13-88:39
+	android:value
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:88:17-37
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:87:17-86
+activity#com.facebook.FacebookActivity
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:90:9-94:48
+	android:label
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:94:13-45
+	android:configChanges
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:91:13-113
+	android:theme
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:93:13-72
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:90:19-63
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:96:9-107
+	android:value
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:96:66-105
+	android:name
+		ADDED from /Users/diwin/Documents/egyetem/prog/NTParse1/app/src/main/AndroidManifest.xml:96:20-65

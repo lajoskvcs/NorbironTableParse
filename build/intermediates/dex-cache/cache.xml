@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.6.0_ce1e65e5618d1cb90c7f89c04938cef75303750c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_9d086e5c484e952422bf4f15254d5dd118f03df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-widget-android/0.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76d7e619a84e1c57ad7b153ba84b1213f8ff9ef1">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/com.parse-parseui-widget-android-0.0.1_d9ebd0e19c9edf205cb5dda09485ef9322bc9555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4afd799693241aa221c0c08ece238d17d3979a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_7b2ba5f8ae07e39488c575c99d4a13d4617bce41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_386bff79f320ff488215fc0ecceb5a653f27f1ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parsefacebookutils-v4-android/1.10.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/com.parse-parsefacebookutils-v4-android-1.10.3_57b10b2cfcfe4c6c2d37967dbee99df69b9f7293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.parse/parseui-login-android/0.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a2c63ab232bd2c7b750e74794015c8b09aca351">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/com.parse-parseui-login-android-0.0.1_af9bcb06d035a71e84bbc7d1c49c0268c7a3ec96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a/parse-android-1.13.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/parse-android-1.13.1_cf9866fb0c99026c55a22dd9914613eadeec06a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_d992294a25cf8848df226f3989847f2e692783e6.jar" />
+    </item>
+
+</items>
