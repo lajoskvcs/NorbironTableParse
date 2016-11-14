@@ -61,7 +61,7 @@
         <item quantity="one">Password must be at least %d character long</item>
         <item quantity="other">Password must be at least %d characters long</item>
     </plurals>
-    <string name="app_name">Norbiron Table</string>
+    <string name="app_name">Norbiron Table Parse</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
@@ -128,7 +128,7 @@
     <string name="com_parse_ui_twitter_login_failed_toast">Twitter login failed</string>
     <string name="com_parse_ui_username_input_hint">Username</string>
     <string name="com_parse_ui_username_taken_toast">Username is already taken, please choose a different one</string>
-    <string name="facebook_app_id">575329039321619</string>
+    <string name="facebook_app_id"/>
     <string name="messenger_send_button_text">Send</string>
     <style name="Animation.FadeInOutAnim" parent="@android:Animation">
         <item name="android:windowEnterAnimation">@drawable/fadein</item>
@@ -169,7 +169,7 @@
     <item name="android:layout_gravity">center</item>
     <item name="android:drawablePadding">4dp</item>
     <item name="android:gravity">center</item>
-    <!--suppress NewApi -->
+    
     <item name="android:textAllCaps">true</item>
     <item name="android:textSize">14sp</item>
     <item name="android:textStyle">bold</item>
