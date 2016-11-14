@@ -16,8 +16,8 @@ public class NorbironTableApplication extends Application {
         Parse.initialize(new Parse.Configuration.Builder(NorbironTableApplication.this)
                 .applicationId("NorbironTable")
                 .clientKey("Norbiron")
-                .server("http://10.0.2.2:1337/parse")
-                //.server("http://192.168.1.51:1337/parse")
+                //.server("http://10.0.2.2:1337/parse")
+                .server("http://192.168.1.51:1337/parse")
                 .build()
         );
         ParseFacebookUtils.initialize(NorbironTableApplication.this);
