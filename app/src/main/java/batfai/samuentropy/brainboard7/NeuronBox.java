@@ -52,7 +52,6 @@ import com.parse.ParseUser;
  * @author nbatfai
  */
 public class NeuronBox implements Cloneable {
-    private static final String TAG = NeuronBox.class.toString();
     private Sprite[] neurons;
 
     private android.graphics.Bitmap tiles;

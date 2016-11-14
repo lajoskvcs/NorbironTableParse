@@ -43,9 +43,6 @@ package batfai.samuentropy.brainboard7;
 import android.content.Intent;
 import android.util.Log;
 
-import com.parse.Parse;
-import com.parse.ParseFacebookUtils;
-import com.parse.ParseObject;
 import com.parse.ParseUser;
 import com.parse.ui.ParseLoginBuilder;
 
@@ -54,7 +51,6 @@ import com.parse.ui.ParseLoginBuilder;
  * @author nbatfai
  */
 public class NeuronGameActivity extends android.app.Activity {
-    private static final String TAG = NeuronGameActivity.class.toString();
     private NorbironSurfaceView norbironSurfaceView;
 
     @Override
@@ -65,7 +61,7 @@ public class NeuronGameActivity extends android.app.Activity {
         norbironSurfaceView = (NorbironSurfaceView) findViewById(R.id.norbiron_surface_view);
         if(ParseUser.getCurrentUser() == null) {
             ParseLoginBuilder builder = new ParseLoginBuilder(NeuronGameActivity.this);
-            startActivityForResult(builder.build(), 0);
+            startActivityForResult(builder.build(), 1);
         }
     }
 
@@ -73,15 +69,12 @@ public class NeuronGameActivity extends android.app.Activity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
-
-
         if (requestCode == 0) {
             if (ParseUser.getCurrentUser() == null) {
                 ParseLoginBuilder builder = new ParseLoginBuilder(NeuronGameActivity.this);
                 startActivityForResult(builder.build(), 0);
             }
         } else if (requestCode == 1) {
-            Log.d(TAG, "oar");
             norbironSurfaceView.queryNeuronBoxes();
         }
     }
@@ -89,6 +82,8 @@ public class NeuronGameActivity extends android.app.Activity {
     @Override
     public void onBackPressed() {
         ParseUser.logOut();
+        ParseLoginBuilder builder = new ParseLoginBuilder(NeuronGameActivity.this);
+        startActivityForResult(builder.build(), 0);
         super.onBackPressed();
     }
 }

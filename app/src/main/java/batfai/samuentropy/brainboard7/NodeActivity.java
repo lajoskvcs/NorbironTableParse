@@ -126,14 +126,6 @@ public class NodeActivity extends android.app.Activity {
                 nodes.put("type",position);
                 nodes.saveInBackground();
 
-                /*
-                android.content.Intent intent = new android.content.Intent();
-
-                intent.setClass(NodeActivity.this, NeuronGameActivity.class);
-                intent.setFlags(android.content.Intent.FLAG_ACTIVITY_CLEAR_TOP);
-                intent.putExtra("selectedNode", position);
-                startActivity(intent);
-                */
                 NodeActivity.this.finish();
 
             }

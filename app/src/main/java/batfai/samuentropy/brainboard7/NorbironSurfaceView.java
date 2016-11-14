@@ -146,7 +146,6 @@ class Nodes {
  */
 public class NorbironSurfaceView extends android.view.SurfaceView implements Runnable {
 
-    private static final String TAG = NorbironSurfaceView.class.toString();
 
     private float startsx = 0;
     private float startsy = 0;

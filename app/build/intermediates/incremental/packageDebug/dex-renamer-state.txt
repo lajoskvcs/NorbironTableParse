@@ -1,4 +1,4 @@
-#Mon Nov 14 21:45:50 CET 2016
+#Mon Nov 14 23:13:52 CET 2016
 base.0=/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/diwin/Documents/egyetem/prog/NTParse1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
